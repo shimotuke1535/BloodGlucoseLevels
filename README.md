@@ -1,0 +1,2 @@
+# BloodGlucoseLevels
+血糖値とHｂA1cの管理を行うためのプログラム群
